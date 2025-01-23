@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 /*
 Exercise 1: maxOfTwoNumbers()
 
@@ -199,7 +199,7 @@ switch (operation) {
 
 console.log('Exercise 9 Result:', basicCalculator(10, 5, "subtract"));
 
-=======
+
 /*
 Exercise 1: maxOfTwoNumbers()
 
@@ -399,4 +399,4 @@ switch (operation) {
 
 
 console.log('Exercise 9 Result:', basicCalculator(10, 5, "subtract"));
->>>>>>> 44e30798b06ee59820ad55d97614d9aa9a8e142d
+
